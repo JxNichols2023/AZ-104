@@ -4,10 +4,16 @@ https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
 Subscription considerations and recommendations
 https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions
 
+Azure subscription and service limits, quotas, and constraints
+https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits
+
 A list of Azure regions and their locations
 https://azure.microsoft.com/global-infrastructure/locations/
 
 Managing your resources with management groups.
 https://docs.microsoft.com/azure/governance/management-groups/manage
+
+Virtual machine sizes
+https://learn.microsoft.com/en-us/azure/virtual-machines/sizes
 
 
