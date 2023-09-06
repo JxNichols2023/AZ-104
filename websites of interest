@@ -18,3 +18,6 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/sizes
 
 Load balancing flow chart
 https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview
+
+Overview of Azure Monitor agents
+https://docs.microsoft.com/azure/azure-monitor/platform/agents-overview
