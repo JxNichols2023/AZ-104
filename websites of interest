@@ -28,3 +28,11 @@ https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 Kusto operators
 https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/tutorials/learn-common-operators
 
+Setting up an Azure DNS zone for web app
+https://learn.microsoft.com/en-us/azure/static-web-apps/azure-dns-zone
+
+Setting up a custom Azure domain 
+https://learn.microsoft.com/en-us/azure/static-web-apps/custom-domain-azure-dns
+
+Setting up the Apex domain
+https://learn.microsoft.com/en-us/azure/static-web-apps/apex-domain-azure-dns
